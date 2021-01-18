@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">H5190036_YunusEmreSamatFinal</string>
+
+    <string name="turkhavayollari">TÜRK HAVA YOLLARI</string>
+    <string name="kurulustarih">20 Mayıs 1933</string>
+    <string name="deger">1,975 Milyar Dolar</string>
+
+    <string name="baslik">BAŞLIK</string>
+    <string name="kurulusTarihBilgi">KURULUŞ TARİHİ</string>
+    <string name="degerBilgi">DEĞERİ</string>
+    <string name="detay">DETAY</string>
+
+    <string name="alertTitle">İNTERNET BAĞLANTINIZ YOK!!!</string>
+    <string name="alertMessage">Uygulamayı kullanmak için internete bağlanın.</string>
+    <string name="alertPositive">İNTERNETE BAĞLAN</string>
+    <string name="alertNegative">UYGULAMADAN ÇIK</string>
+
+    <string name="alertTitle2">UYGULAMADAN ÇIKMAK ÜZERESİNİZ !!!</string>
+    <string name="alertMessage2">Uygulamadan çıkmak istiyor musunuz?</string>
+    <string name="alertPositive2">UYGULAMADAN ÇIK</string>
+    <string name="alertNegative2">İPTAL</string>
+
+    <string name="progressMessage">Lütfen Bekleyiniz...</string>
+
+    <string name="textKurulusTar">Kuruluş Tarihi:</string>
+    <string name="textDeger">Değeri:</string>
+
+</resources>

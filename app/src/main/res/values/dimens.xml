@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="imglogowidth1">279dp</dimen>
+    <dimen name="imglogoheight1">425dp</dimen>
+
+    <dimen name="cardLayoutPadding">16dp</dimen>
+
+    <dimen name="cardMarkaLogoWidth">100dp</dimen>
+    <dimen name="cardMarkaLogoHeight">100dp</dimen>
+    <dimen name="cardMarkaLogoMarginStart">16dp</dimen>
+    <dimen name="cardMarkaLogoMarginTop">16dp</dimen>
+    <dimen name="cardMarkaLogoMarginBottom">16dp</dimen>
+
+    <dimen name="cardMarkaAdiMarginStart">16dp</dimen>
+    <dimen name="cardMarkaAdiTextSize">24sp</dimen>
+
+    <dimen name="cardKurulusTarihiMarginTop">15dp</dimen>
+    <dimen name="cardKurulusTarihiTextSize">18sp</dimen>
+
+    <dimen name="cardDegeriMarginTop">5dp</dimen>
+    <dimen name="cardDegeriTextSize">18sp</dimen>
+
+    <dimen name="imgKapakHeight">250dp</dimen>
+
+    <dimen name="rcvMarkalarHeight">0dp</dimen>
+
+    <dimen name="imgLogoHeight">360dp</dimen>
+
+    <dimen name="txtBaslikPaddingLeft">10dp</dimen>
+    <dimen name="txtBaslikPaddingTop">10dp</dimen>
+    <dimen name="txtBaslikTextSize">36sp</dimen>
+
+    <dimen name="txtKurulusTarihBilgiPaddingLeft">10dp</dimen>
+    <dimen name="txtKurulusTarihBilgiPaddingBottom">0dp</dimen>
+    <dimen name="txtKurulusTarihBilgiTextSize">24sp</dimen>
+
+    <dimen name="txtDegerBilgiPaddingLeft">10dp</dimen>
+    <dimen name="txtDegerBilgiPaddingBottom">10dp</dimen>
+    <dimen name="txtDegerBilgiTextSize">24sp</dimen>
+
+    <dimen name="txtDetayPadding">10dp</dimen>
+    <dimen name="txtDetayTextSize">20sp</dimen>
+</resources>

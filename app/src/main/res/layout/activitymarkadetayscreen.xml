@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.MarkaDetayScreenActivity">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/backgroundbordo">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imgLogo"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/imgLogoHeight"
+                android:background="@color/backgroundmavi"
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:id="@+id/txtBaslik"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/txtBaslikPaddingLeft"
+                android:paddingTop="@dimen/txtBaslikPaddingTop"
+                android:text="@string/baslik"
+                android:textColor="@color/teal_700"
+                android:textSize="@dimen/txtBaslikTextSize" />
+
+            <TextView
+                android:id="@+id/txtKurulusTarihBilgi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/txtKurulusTarihBilgiPaddingLeft"
+                android:paddingBottom="@dimen/txtKurulusTarihBilgiPaddingBottom"
+                android:text="@string/kurulusTarihBilgi"
+                android:textColor="@color/teal_200"
+                android:textSize="@dimen/txtKurulusTarihBilgiTextSize" />
+
+            <TextView
+                android:id="@+id/txtDegerBilgi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/txtDegerBilgiPaddingLeft"
+                android:paddingBottom="@dimen/txtDegerBilgiPaddingBottom"
+                android:text="@string/degerBilgi"
+                android:textColor="@color/teal_200"
+                android:textSize="@dimen/txtDegerBilgiTextSize" />
+
+            <TextView
+                android:id="@+id/txtDetay"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/txtDetayPadding"
+                android:text="@string/detay"
+                android:textColor="@color/beyaz"
+                android:textSize="@dimen/txtDetayTextSize" />
+
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
