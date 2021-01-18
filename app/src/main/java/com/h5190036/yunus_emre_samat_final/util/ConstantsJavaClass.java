@@ -4,6 +4,6 @@ public class ConstantsJavaClass {
 
     public  static String TIKLANAN_MARKA_TASINAN_BASLIGI = "tiklananMarka";
 
-    public  static String BASE_URL = "https://raw.githubusercontent.com/YunusEmreSamat/h5190036yunusemresamat/main/";
+    public  static String BASE_URL = "https://raw.githubusercontent.com/YunusEmreSamat/h5190036yunusemresamat/master/";
 
 }
