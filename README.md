@@ -25,10 +25,10 @@ Bu uygulamanın temel amacı, Java'da Mimari bileşenleri kullanan bir Android u
 ## Libraries and tools 🛠
 
 <li><a href="https://github.com/ReactiveX/RxJava">RxJava</a></li>
-<li>Gson</li>
 <li><a href="https://square.github.io/retrofit/">Retrofit</a></li>
 <li><a href="https://github.com/square/okhttp">OkHttp</a></li>
 <li><a href="https://github.com/bumptech/glide">Glide</a></li>
+<li>Gson</li>
 
 License
 --------
