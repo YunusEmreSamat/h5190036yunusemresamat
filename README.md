@@ -8,7 +8,7 @@
 
 Bu uygulama Türkiye'deki piyasa değeri en yüksek olan markalardan birkaçı hakkında bilgi veren basit bir uygulamadır.
 
-Bu uygulamanın temel amacı, Java'da Mimari bileşenleri kullanan kaliteli bir Android uygulamasının nasıl oluşturulacağına dair bir örnek olmaktır.
+Bu uygulamanın temel amacı, Java'da Mimari bileşenleri kullanan bir Android uygulamasının nasıl oluşturulacağına dair bir örnek olmaktır.
 
 <h2 id="Outputs">Outputs</h2>
 <p>
