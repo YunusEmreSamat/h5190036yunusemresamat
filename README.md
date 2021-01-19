@@ -6,7 +6,7 @@
 ### Most Valuable Brands App In Turkey
 ![ic_launcher](https://github.com/YunusEmreSamat/h5190036yunusemresamat/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
-Bu uygulama Türkiye'deki piyasa değeri en yüksek olan markalar hakkında bilgi veren basit bir uygulamadır.
+Bu uygulama Türkiye'deki piyasa değeri en yüksek olan markalardan birkaçı hakkında bilgi veren basit bir uygulamadır.
 
 Bu uygulamanın temel amacı, Java'da Mimari bileşenleri kullanan kaliteli bir Android uygulamasının nasıl oluşturulacağına dair bir örnek olmaktır.
 
